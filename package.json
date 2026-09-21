@@ -49,13 +49,13 @@
   "packageManager": "pnpm@10.30.3",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@vitest/coverage-v8": "^4.1.10",
+    "@vitest/coverage-v8": "^5.0.1",
     "eslint": "^10.8.0",
     "prettier": "^3.9.6",
-    "tinybench": "^2.9.0",
+    "tinybench": "^6.2.0",
     "tsup": "^8.5.1",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "typescript-eslint": "^8.65.0",
-    "vitest": "^4.1.10"
+    "vitest": "^5.0.1"
   }
 }
